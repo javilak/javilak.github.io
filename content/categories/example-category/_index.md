@@ -1,7 +1,7 @@
 ---
-title: Example Category
-description: A description of this category
-image:
+title: Javilak 的测试网页
+base on hugo 
+image: https://avatars.githubusercontent.com/u/47470153?s=400&v=4
 
 # Badge style
 style:
