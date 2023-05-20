@@ -3,7 +3,7 @@ title: 通过termux在安卓中部署ubuntu
 description: 安装与踩坑之路
 slug: ubuntu-in-android
 date: 2023-04-26 00:20:00+0800
-image: cover.jpg
+image: cover.webp
 categories:
     - androidplay
 tags:
