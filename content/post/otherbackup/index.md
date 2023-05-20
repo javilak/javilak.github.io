@@ -1,11 +1,11 @@
 ---
 title: 杂项
 description: 仅备份
-slug: otherthings
+slug: otherbackup
 date: 2023-05-21 03:40:00+0800
 image: cover.webp
 categories:
-    - other
+    - misc
 tags:
     - bilibili
     - 坚果云
