@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>bilibili on Example Site</title><link>https://javilak.github.io/tags/bilibili/</link><description>Recent content in bilibili on Example Site</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 21 May 2023 03:40:00 +0800</lastBuildDate><atom:link href="https://javilak.github.io/tags/bilibili/index.xml" rel="self" type="application/rss+xml"/><item><title>杂项</title><link>https://javilak.github.io/p/otherbackup/</link><pubDate>Sun, 21 May 2023 03:40:00 +0800</pubDate><guid>https://javilak.github.io/p/otherbackup/</guid><description>&lt;img src="https://javilak.github.io/cover.webp" alt="Featured image of post 杂项" />&lt;h1 id="b站网页端cookie">B站网页端cookie&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">Name&lt;/th>
+&lt;th style="text-align:center">Value&lt;/th>
+&lt;th style="text-align:center">Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">i-wanna-go-feeds&lt;/td>
+&lt;td style="text-align:center">-1&lt;/td>
+&lt;td style="text-align:center">内测页&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">go-back-dyn&lt;/td>
+&lt;td style="text-align:center">1&lt;/td>
+&lt;td style="text-align:center">动态页&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">go-old-ogv-video&lt;/td>
+&lt;td style="text-align:center">1&lt;/td>
+&lt;td style="text-align:center">番剧/影视页&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">go_old_video&lt;/td>
+&lt;td style="text-align:center">1&lt;/td>
+&lt;td style="text-align:center">视频页&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">i-wanna-go-back&lt;/td>
+&lt;td style="text-align:center">1&lt;/td>
+&lt;td style="text-align:center">主页&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">i-wanna-go-channel-back&lt;/td>
+&lt;td style="text-align:center">1&lt;/td>
+&lt;td style="text-align:center">频道页&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">nostalgia_conf&lt;/td>
+&lt;td style="text-align:center">1&lt;/td>
+&lt;td style="text-align:center">搜索页&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">opus-goback&lt;/td>
+&lt;td style="text-align:center">1&lt;/td>
+&lt;td style="text-align:center">动态/专栏页&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">ogv_channel_version&lt;/td>
+&lt;td style="text-align:center">v1&lt;/td>
+&lt;td style="text-align:center">番剧频道页&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="坚果云角标">坚果云角标&lt;/h1>
+&lt;h2 id="同步状态图标">同步状态图标&lt;/h2>
+&lt;p>&lt;code>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SyncRootManager&lt;/code>&lt;/p>
+&lt;p>&lt;code>ThumbnailProvider&lt;/code> 删去数值或设为 $0$，但不能删去该值；重启坚果云重获角标&lt;/p>
+&lt;h2 id="explorer右栏图标">Explorer右栏图标&lt;/h2>
+&lt;p>&lt;code>HKEY_CURRENT_USER\Software\Classes\CLSID\{...}&lt;/code>
+&lt;code>HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{...}&lt;/code>&lt;/p>
+&lt;p>&lt;code>System.IsPinnedToNamespaceTree&lt;/code> 数值由 $1$ 改为 $0$，甚至直接删去项&lt;/p></description></item></channel></rss>
